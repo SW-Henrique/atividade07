@@ -1,0 +1,50 @@
+body {
+	font-family: Arial, sans-serif;
+    font-size: 15px;
+}
+
+h1, h2, p {
+	margin: 0;
+	padding: 0;
+}
+
+.chatbots {
+    color: chocolate;
+
+}
+
+.fonte {
+    font: size 20px; ;
+}
+
+.fonte {
+	font-family: Arial, sans-serif;
+}
+
+.tamanho {
+	font-size: 20px;
+}
+
+.estilo {
+	font-style: italic;
+}
+
+.peso {
+	font-weight: bold;
+}
+
+.cor {
+	color: red;
+}
+
+.alinhamento {
+	text-align: center;
+}
+
+.decoracao {
+	text-decoration: underline;
+}
+
+.transformacao {
+	text-transform: uppercase;
+}
